@@ -1,6 +1,6 @@
 textblob
-gensim
-click
+gensim==3.8.3
+click==7.0
 Exit
 spacy
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
