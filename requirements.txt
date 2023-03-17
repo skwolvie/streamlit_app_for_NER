@@ -1,9 +1,9 @@
 textblob
-gensim==3.8.3
-click==7.0
+gensim
+click
 Exit
-spacy>=2.2.0,<3.0.0
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
 nltk
 matplotlib
 pandas
